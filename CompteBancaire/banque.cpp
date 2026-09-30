@@ -27,6 +27,8 @@ void Banque::saisir()
 
 	cout << "Solde : ";
 	cin >> solde;
+
+
 }
 
 int Banque::getNumero()
